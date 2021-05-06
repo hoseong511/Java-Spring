@@ -1,6 +1,4 @@
-package ch01;
-
-import java.util.List;
+package chapter1.ch01;
 
 public class HelloJava {
    private String title;

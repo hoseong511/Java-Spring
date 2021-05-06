@@ -8,6 +8,6 @@
 /httpRequests/
 out/
 
-.idea/
+.idea/*
 
 *.iml
