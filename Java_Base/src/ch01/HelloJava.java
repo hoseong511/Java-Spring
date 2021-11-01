@@ -1,4 +1,4 @@
-package chapter1.ch01;
+package ch01;
 
 public class HelloJava {
    private String title;
