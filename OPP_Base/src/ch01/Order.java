@@ -1,4 +1,4 @@
-package chapter2.ch1;
+package ch01;
 // 접근제어자
 public class Order {
     // 멤버변수들~

@@ -1,4 +1,4 @@
-package chapter2.ch1;
+package ch01;
 
 public class Student {
     int studentNumber; //접근 제어자에 대해서는 나중에

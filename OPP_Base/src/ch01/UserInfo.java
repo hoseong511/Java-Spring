@@ -1,4 +1,4 @@
-package chapter2.ch1;
+package ch01;
 
 public class UserInfo {
 

@@ -1,3 +1,5 @@
+package ch07;
+
 public class DoubleTest {
     public static void main(String[] args) {
         double dnum = 3.14; // 숫자는 메모리 공간에 자리를 잡는데
